@@ -4,5 +4,5 @@ body {
 
 .me {
     color: white;
-    align-items: center;
+    display: flex;
 }
