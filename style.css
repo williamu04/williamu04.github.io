@@ -4,5 +4,15 @@ body {
 
 .me {
     color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+}
+
+.kuning {
+    color: yellow;
+}
+
+.bold {
+    color: orange;
+    text-decoration: underline;
 }
